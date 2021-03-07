@@ -1,1 +1,1 @@
-println("test")
+print("test")
